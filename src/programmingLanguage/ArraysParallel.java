@@ -5,6 +5,9 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class ArraysParallel {
     public static void main(String[] args) {
+
+	//comment to make changes on git
+
         long[] arrayOfLong = new long [ 20000 ];
 
         Arrays.parallelSetAll( arrayOfLong,
