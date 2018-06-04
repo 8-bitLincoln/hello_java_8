@@ -7,3 +7,4 @@ class NotFound { private String somebody; }
 class NotFound { private String something; }
 class NotFound { private String something123; }
 class NotFound { private String someFCKINGthing123; }
+class NotFound { private String someFCKINGbad; }
